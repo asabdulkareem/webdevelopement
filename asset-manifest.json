@@ -1,23 +1,24 @@
 {
   "files": {
     "main.css": "/webdevelopement/static/css/main.523f09c5.chunk.css",
-    "main.js": "/webdevelopement/static/js/main.f4263bb7.chunk.js",
-    "main.js.map": "/webdevelopement/static/js/main.f4263bb7.chunk.js.map",
+    "main.js": "/webdevelopement/static/js/main.cc2230fb.chunk.js",
+    "main.js.map": "/webdevelopement/static/js/main.cc2230fb.chunk.js.map",
     "runtime-main.js": "/webdevelopement/static/js/runtime-main.52a5032c.js",
     "runtime-main.js.map": "/webdevelopement/static/js/runtime-main.52a5032c.js.map",
-    "static/js/2.0952b43c.chunk.js": "/webdevelopement/static/js/2.0952b43c.chunk.js",
-    "static/js/2.0952b43c.chunk.js.map": "/webdevelopement/static/js/2.0952b43c.chunk.js.map",
+    "static/js/2.d69e7113.chunk.js": "/webdevelopement/static/js/2.d69e7113.chunk.js",
+    "static/js/2.d69e7113.chunk.js.map": "/webdevelopement/static/js/2.d69e7113.chunk.js.map",
     "index.html": "/webdevelopement/index.html",
-    "precache-manifest.8d8278b3fdd818149dafcf48c4f237de.js": "/webdevelopement/precache-manifest.8d8278b3fdd818149dafcf48c4f237de.js",
+    "precache-manifest.0abf6e0d214f3d96cb42e145a03a6c1b.js": "/webdevelopement/precache-manifest.0abf6e0d214f3d96cb42e145a03a6c1b.js",
     "service-worker.js": "/webdevelopement/service-worker.js",
     "static/css/main.523f09c5.chunk.css.map": "/webdevelopement/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.0952b43c.chunk.js.LICENSE.txt": "/webdevelopement/static/js/2.0952b43c.chunk.js.LICENSE.txt",
+    "static/js/2.d69e7113.chunk.js.LICENSE.txt": "/webdevelopement/static/js/2.d69e7113.chunk.js.LICENSE.txt",
+    "static/media/Abdul.jpeg": "/webdevelopement/static/media/Abdul.e79ca113.jpeg",
     "static/media/logo.svg": "/webdevelopement/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.52a5032c.js",
-    "static/js/2.0952b43c.chunk.js",
+    "static/js/2.d69e7113.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.f4263bb7.chunk.js"
+    "static/js/main.cc2230fb.chunk.js"
   ]
 }
